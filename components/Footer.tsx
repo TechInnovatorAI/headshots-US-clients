@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="text-gray-500">
         <Link
           className="text-blue-600 hover:underline font-bold"
-          href="https://github.com/keysven/headshots"
+          href="https://github.com/TechInnovatorAI/headshots-US-clients"
           target="_blank"
         >
           Open-source
@@ -60,7 +60,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/keysven/headshots"
+          href="https://github.com/TechInnovatorAI/headshots-US-clients"
           className="group"
           aria-label="GitHub"
           target="_blank"
